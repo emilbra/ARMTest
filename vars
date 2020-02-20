@@ -92,7 +92,7 @@ set_var EASYRSA_REQ_COUNTRY	"NO"
 set_var EASYRSA_REQ_PROVINCE	"Trøndelag"
 set_var EASYRSA_REQ_CITY	"Trondheim"
 set_var EASYRSA_REQ_ORG		"Salmo AS"
-set_var EASYRSA_REQ_EMAIL	"admin@salmo.local"
+set_var EASYRSA_REQ_EMAIL	"admin@salmo.no"
 set_var EASYRSA_REQ_OU		"My Organizational Unit"
 
 # Choose a size in bits for your keypairs. The recommended value is 2048.  Using
